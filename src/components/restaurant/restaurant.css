@@ -1,0 +1,9 @@
+.img-parent{
+    width: 75%;
+}
+.img-parent img{
+    width: 100%;
+}
+section h2{
+    background-color: rgb(141, 182, 218);
+}

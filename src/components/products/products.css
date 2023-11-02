@@ -1,0 +1,12 @@
+.products .product h2{
+    font-size: 18px;
+}
+.product-img{
+    width: 50%;
+}
+.product-img img{
+    width: 100%;
+}
+.title{
+    width: 50%;
+}
